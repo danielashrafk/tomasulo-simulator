@@ -1,6 +1,6 @@
 # Tomasulo Algorithm Simulator (Java & Swing)
 
-Clone then open in eclipse and run "src\Simulation.java"
+Clone then open in eclipse and run "src\Simulation.java" (make sure to extend the window if the buttons at the bottom do not appear).
 
 Simple Tomasulo algorithm created using Java with very simple UI using Swing just to implement the idea of Tomasulo.
 
